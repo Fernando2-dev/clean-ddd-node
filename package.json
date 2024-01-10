@@ -1,0 +1,28 @@
+{
+  "name": "clean-ddd-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fernando2-dev/clean-ddd-node.git"
+  },
+  "keywords": [],
+  "author": "Fernando Henrique da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fernando2-dev/clean-ddd-node/issues"
+  },
+  "homepage": "https://github.com/Fernando2-dev/clean-ddd-node#readme",
+  "dependencies": {
+    "@types/node": "^20.10.6",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "vitest": "^1.1.3"
+  }
+}
